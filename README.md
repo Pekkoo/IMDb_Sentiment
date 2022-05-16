@@ -1,5 +1,5 @@
 # IMDb_Sentiment
-Experimenting with a common NLP problem: sentiment analysis. Work in progress.
+Experimenting with a common NLP problem: sentiment analysis.
 
 Python 2.7.
 
